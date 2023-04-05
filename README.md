@@ -1,5 +1,12 @@
 # dioxus-tailwind
 
+## Installation
+
+### Install dependencies
+```
+npm install
+```
+
 ## Usage
 
 #### Start a `dev-server` for the project:
